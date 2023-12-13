@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pravallikadintyala
 - 👀 I’m interested in coding 
 - 🌱 I’m currently studying MCA
-- 📫 How to reach me ...
 
 <!---
 Pravallikadintyala/Pravallikadintyala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
